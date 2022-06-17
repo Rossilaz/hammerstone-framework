@@ -1,12 +1,19 @@
 # List of bush materials:
 
 leavesADecal
+
 leavesSmallerDecal
+
 leavesBiggerDecal
+
 edgeDecal.groupTypes.hay
+
 edgeDecal.groupTypes.haySmaller
+
 edgeDecal.groupTypes.bananaLeaf
+
 edgeDecal.groupTypes.bananaLeafSmall
+
 edgeDecal.groupTypes.bananaBark
 edgeDecal.groupTypes.pine
 edgeDecal.groupTypes.pineSmall
