@@ -1,9 +1,9 @@
-local mod = {
-	loadOrder = 5,
-}
+--local mod = {
+--	loadOrder = 5,
+--}
 
-local mat = mjrequire "common/material"
-local edge = mjrequire "common/edgeDecal"
+--local mat = mjrequire "common/material"
+--local edge = mjrequire "common/edgeDecal"
 
 function addMaterialThing
 
